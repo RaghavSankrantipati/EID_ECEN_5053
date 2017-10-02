@@ -4,5 +4,10 @@ Installation Instruction:
   Install PyQt4 and designer
   1. SUDO APT-GET INSTALL PYTHON3-PYQT4
   2. SUDO APT-GET INSTALL QT4-DESIGNER
-
+  
+Project Additions:
+   1. Process bars are added for displaying Temperature and Humidity (A download bar). % in temperature indicates degree centigrade.
+   2. A graph is plotted by collecting 100 samples updating every 5 seconds. So, only last 100 samples are stored.
+   3. A button for average of the above collected samples.
+   4. A button to add alarm for high limit to tempearture. A window is popped up when temperature is above the limit.
 
