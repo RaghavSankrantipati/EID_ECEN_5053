@@ -4,7 +4,9 @@ Installation Instruction:
   Install PyQt4 and designer
   1. SUDO APT-GET INSTALL PYTHON3-PYQT4
   2. SUDO APT-GET INSTALL QT4-DESIGNER
+  
   Install Adafruit_DHT library
+  
   1.git clone https://github.com/adafruit/Adafruit_Python_DHT.git
   2.cd Adafruit_Python_DHT
   3. sudo apt-get update
