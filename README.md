@@ -1,1 +1,1 @@
-# EID_ECEN_5053
+# A course repository for ECEN 5053 EID
