@@ -7,8 +7,8 @@ Installation Instruction:
   
   Install Adafruit_DHT library
   
-  1.git clone https://github.com/adafruit/Adafruit_Python_DHT.git
-  2.cd Adafruit_Python_DHT
+  1. git clone https://github.com/adafruit/Adafruit_Python_DHT.git
+  2. cd Adafruit_Python_DHT
   3. sudo apt-get update
   4. sudo apt-get install build-essential python-dev python-openssl
   5. sudo python setup.py install
