@@ -13,6 +13,9 @@ Installation Instruction:
   4. sudo apt-get install build-essential python-dev python-openssl
   5. sudo python setup.py install
   
+Project Description:
+In this project DHT 22 sensor is interfaced to RPi3. A UI is developed using PyQt4 which has options for refreshing sensor values, setting alarm for high limit of temperature, plotting past 100 samples of temperature and averaging these samples along with project additions. Adafruit_DHT library is used to get sensor data. Matplotlib is used to plot.
+  
 Project Additions:
    1. Process bars are added for displaying Temperature and Humidity (A download bar). % in temperature indicates degree centigrade.
    2. A graph is plotted by collecting 100 samples updating every 5 seconds. So, only last 100 samples are stored.
